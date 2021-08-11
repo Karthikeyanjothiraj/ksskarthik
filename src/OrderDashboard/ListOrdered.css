@@ -1,0 +1,15 @@
+.listOrdered{
+    background-color: #f7f7f7;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.orderCount {
+    font-size: medium;
+    font-weight: 600;
+}
+
+.column {
+    background-color: whitesmoke;
+    margin-top: 10px;
+}

@@ -1,0 +1,45 @@
+.allActivated {
+    background-color: green;
+    height: 100%;
+    padding-right: 5px;
+    border: hidden;
+    margin-right: 3px;
+   
+   }
+   .button{
+       height: 100%;
+       padding-right: 5px;
+       border: hidden;
+       margin-right: 3px;
+       margin-left: 5px;
+       min-width:50px;
+
+   
+   }
+   
+   .header{
+       display: flex;
+       width:100%;
+       height: 10%;
+   }
+   
+   .headLeft{
+       display: flex;
+   }
+   .headerRight {
+       display: flex;
+       padding-left: 23%;
+   
+   }
+   .ticketHead{
+       font-size: large;
+       font-weight: 600;
+       padding-right: 5px;
+       padding-top: 7px;
+   }
+   
+   .datacount {
+       padding-top: 10px;
+       font-weight: 800;
+       color: grey;
+   }
